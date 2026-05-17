@@ -7,7 +7,7 @@ export default function Home() {
         </p>
 
         <h1 className="text-5xl font-semibold tracking-tight sm:text-7xl">
-          Moni Boutique
+          Moni Boutique Store
         </h1>
 
         <p className="mt-6 max-w-2xl text-lg leading-8 text-stone-600">
