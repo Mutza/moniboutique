@@ -4,7 +4,7 @@ export default function Home() {
       <section className="hero-section">
         <p className="eyebrow">Welcome to</p>
 
-        <h1 className="hero-title">Moni Boutique Store</h1>
+        <h1 className="hero-title">Moni Boutique</h1>
 
         <p className="hero-description">
           Handmade pieces, vintage finds, collectibles, jewelry, and small
